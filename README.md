@@ -1,4 +1,4 @@
-# frida-hook-java frida hook java 常用的方法 
+frida hook java 常用的方法 
 
 通杀安卓常用的算法
 
